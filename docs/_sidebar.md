@@ -9,5 +9,6 @@
 - [Literature Notes](05-LiteratureNotes/LiteratureNotes.md)
   - [Literature-Note-001](05-LiteratureNotes/Literature-Note-001.md)
   - [Literature-Note-002](05-LiteratureNotes/Literature-Note-002.md)
+  - [Literature-Note-003](05-LiteratureNotes/Literature-Note-003.md)
 - [Others](06-Others/Others.md)
 
